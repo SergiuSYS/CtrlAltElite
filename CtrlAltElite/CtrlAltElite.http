@@ -1,0 +1,6 @@
+@CtrlAltElite_HostAddress = http://localhost:5063
+
+GET {{CtrlAltElite_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
